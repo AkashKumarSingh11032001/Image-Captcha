@@ -1,1 +1,1 @@
-Image Captcha
+'''Image Captcha'''
