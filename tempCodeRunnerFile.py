@@ -1,0 +1,1 @@
+ce6','captcha.png')
