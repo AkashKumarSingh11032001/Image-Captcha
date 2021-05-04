@@ -10,3 +10,4 @@ Captcha_image = ImageCaptcha(width = 280, height = 90)
 values = Captcha_image.generate('12open78source6')
 
 # genrate and create the new captcha image file
+Captcha_image.write('12open78source6','captcha.png')
