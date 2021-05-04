@@ -5,4 +5,4 @@ from captcha.image import ImageCaptcha, _Captcha
 
 # set image dimension
 
-Captcha_image = 
+Captcha_image = ImageCaptcha(width = 280, height = 90)
