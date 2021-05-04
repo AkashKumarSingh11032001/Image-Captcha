@@ -7,7 +7,7 @@ from captcha.image import ImageCaptcha
 Captcha_image = ImageCaptcha(width = 280, height = 90)
 
 # random genrate image having alphabet and number
-values = Captcha_image.generate("12open78source6")
+values = Captcha_image.generate("Hello2001Akash")
 
 # genrate and create the new captcha image file
-Captcha_image.write("12open78source6","captcha.png")
+Captcha_image.write("Hello2001Akash","captcha.png")
