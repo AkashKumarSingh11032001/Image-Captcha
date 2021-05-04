@@ -4,5 +4,6 @@
 from captcha.image import ImageCaptcha, _Captcha
 
 # set image dimension
-
 Captcha_image = ImageCaptcha(width = 280, height = 90)
+
+# random genrate image having alphabet and number
