@@ -1,1 +1,1 @@
-ce6','captcha.png')
+cha.png")
